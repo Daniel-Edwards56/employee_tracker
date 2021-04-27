@@ -16,7 +16,7 @@ You will need to npm install both inquirer and mysql will also need to be instal
 
 You run npm start in the terminal is how to invoke this code.
 
-![alt-text](.demo_employee_tracker.gif)
+![alt-text](https://github.com/Daniel-Edwards56/employee_tracker/blob/main/demo_employee_tracker.gif?raw=true)
 
 ## Questions
 
